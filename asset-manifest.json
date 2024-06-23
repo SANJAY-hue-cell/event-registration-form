@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/event-registration-form/static/css/main.db62923b.css",
+    "main.js": "/event-registration-form/static/js/main.738559ce.js",
+    "index.html": "/event-registration-form/index.html",
+    "main.db62923b.css.map": "/event-registration-form/static/css/main.db62923b.css.map",
+    "main.738559ce.js.map": "/event-registration-form/static/js/main.738559ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.738559ce.js"
+  ]
+}
